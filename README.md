@@ -85,7 +85,6 @@ data_dir = tf.keras.utils.get_file('flower_photos', origin=dataset_url, cache_di
 <h2>Conclusion</h2>
 <p>This project illustrates how to apply data augmentation to mitigate overfitting in CNN models. By using transformations on the training data, the model is able to generalize better and perform well on unseen test data.</p>
 
-<h2>Credits</h2>
-<p>The code is based on the official TensorFlow tutorial <a href="https://www.tensorflow.org/tutorials/images/classification">Image Classification</a> with modifications for simplicity.</p>
+
 
 </body>
